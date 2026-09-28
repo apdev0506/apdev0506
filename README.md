@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Pradeep Kumar 👋
 
-<!--
-**apdev0506/apdev0506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Android Developer
 
-Here are some ideas to get you started:
+I'm a fresher Android Developer passionate about building clean, user-friendly and practical Android applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- Java
+- Kotlin
+- Android SDK
+- XML
+- Firebase
+- REST APIs
+- MVVM
+- Git & GitHub
+
+### 📱 Featured Projects
+
+Coming soon — adding my Android projects and applications.
+
+### 🎯 Currently
+
+- Looking for Android Developer / Junior Android Developer opportunities
+- Improving my Android development skills
+- Building real-world Android applications
+
+### 📫 Connect with Me
+
+- GitHub: [@apdev0506](https://github.com/apdev0506)
+- LinkedIn: [Pradeep Kumar](https://www.linkedin.com/in/pradeep-kumar-65457241b )
+
+---
+
+⭐ Feel free to explore my repositories.
